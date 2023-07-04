@@ -1,17 +1,18 @@
 ---
-title: "Lab 07: Subway Surfers"
+title: "Lab 08: Clash of Clans Part 1"
 has_children: true
-nav_order: 8
+nav_order: 9
 ---
 
-# Lab 07: SubwaySurfer
-[![Subway Surfers](images/lab07/subwaysurfers.jpg)](https://youtu.be/ZtHCnXMjIXY?t=22)
-[Subway Surfers](https://poki.com/en/g/subway-surfers) is a game in the genre known as an "infinite runner".\
-The player runs continuously along a never-ending track and must dodge obstacles along the way.\
-Here's the [Android Version](https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en_US&gl=US)\
-And the [iOS Version](https://apps.apple.com/us/app/subway-surfers/id512939461)
-
+# Lab 08: ClashOfClans1
+[![Clash of Clans](images/lab08/clashbuild.jpg)](https://www.youtube.com/watch?v=3G7Ffm9OcPs&ab_channel=DarkBarBarian)
+[Clash of Clans](https://supercell.com/en/games/clashofclans/) is an online mobile strategy game.\
+We are going to split the game up and look at 2 different aspects over 2 separate labs.\
+In this first lab, we'll examine the way a player builds their town.\
+Here's the [Android Version](https://play.google.com/store/apps/details?id=com.supercell.clashofclans&referrer=mat_click_id%3Df6890da7bad79ed3290aa334b12d358d-20141216-1681)\
+And the [iOS Version](https://apps.apple.com/app/clash-of-clans/id529479190)
 
 Our version of the lab should end up looking like this:
-<iframe style="display:block; margin: 0 auto;" src="https://drive.google.com/file/d/1LhCdoT5KVrREtsMfzSuaUm9U7VyGz_Bp/preview" width="540" height="960" allow="autoplay"></iframe>
+<iframe style="display:block; margin: 0 auto;" src="https://drive.google.com/file/d/1Q_FNkZP4k1cZgkMfPOhmDXPZErxtmD4r/preview" width="854" height="480" allow="autoplay"></iframe>
+
 

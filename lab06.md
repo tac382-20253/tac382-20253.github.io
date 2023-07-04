@@ -1,13 +1,17 @@
 ---
-title: "Lab 06: Hogwarts"
+title: "Lab 07: Subway Surfers"
 has_children: true
-nav_order: 7
+nav_order: 8
 ---
 
-# Lab 06: Hogwarts
-[Hogwarts Mystery](https://www.harrypotterhogwartsmystery.com/) is a mobile game with a lot of different content.\
-Our lab today is inspired by the *dueling* mechanic in that game.
-[![Hogwarts Duel](images/lab06/duel.jpg)](https://youtu.be/s6YqIWHZ1vM?t=61)
+# Lab 07: SubwaySurfer
+[![Subway Surfers](images/lab07/subwaysurfers.jpg)](https://youtu.be/ZtHCnXMjIXY?t=22)
+[Subway Surfers](https://poki.com/en/g/subway-surfers) is a game in the genre known as an "infinite runner".\
+The player runs continuously along a never-ending track and must dodge obstacles along the way.\
+Here's the [Android Version](https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en_US&gl=US)\
+And the [iOS Version](https://apps.apple.com/us/app/subway-surfers/id512939461)
+
 
 Our version of the lab should end up looking like this:
-<iframe style="display:block; margin: 0 auto;" src="https://drive.google.com/file/d/1JGoe6WzleYXMtnQ2ysq3l98YGxQYnnCl/preview" width="852" height="480" allow="autoplay"></iframe>
+<iframe style="display:block; margin: 0 auto;" src="https://drive.google.com/file/d/1LhCdoT5KVrREtsMfzSuaUm9U7VyGz_Bp/preview" width="540" height="960" allow="autoplay"></iframe>
+
