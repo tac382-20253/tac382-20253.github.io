@@ -4,7 +4,7 @@ has_children: true
 nav_order: 9
 ---
 
-# Lab 08: ClashOfClans1
+# Lab 07: ClashOfClans1
 [![Clash of Clans](images/lab07/clashbuild.jpg)](https://www.youtube.com/watch?v=3G7Ffm9OcPs&ab_channel=DarkBarBarian)
 [Clash of Clans](https://supercell.com/en/games/clashofclans/) is an online mobile strategy game.\
 We are going to split the game up and look at 2 different aspects over 2 separate labs.\

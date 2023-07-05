@@ -4,7 +4,7 @@ has_children: true
 nav_order: 10
 ---
 
-# Lab 09: Fortnite
+# Lab 08: Fortnite
 [![Fortnite](images/lab08/fortnite.jpg)](https://youtu.be/mzgONWdJOeU?t=206)
 No study of mobile games could be complete without a look at [Fortnite](https://www.epicgames.com/fortnite/en-US/home).\
 Fortnite is an online third-person shooter game with an emphasis on rapidly building defensive structures.\

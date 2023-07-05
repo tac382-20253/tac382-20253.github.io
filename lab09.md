@@ -4,7 +4,7 @@ has_children: true
 nav_order: 11
 ---
 
-# Lab 10: ClashOfClans2
+# Lab 09: ClashOfClans2
 [![Clash of Clans](images/lab09/clashattack.jpg)](https://youtu.be/rEwqMai4pLE)
 [Clash of Clans](https://supercell.com/en/games/clashofclans/) is an online mobile strategy game.\
 We are going to split the game up and look at 2 different aspects over 2 separate labs.\

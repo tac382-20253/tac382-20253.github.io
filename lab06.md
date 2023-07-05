@@ -4,7 +4,7 @@ has_children: true
 nav_order: 8
 ---
 
-# Lab 07: SubwaySurfer
+# Lab 06: SubwaySurfer
 [![Subway Surfers](images/lab06/subwaysurfers.jpg)](https://youtu.be/ZtHCnXMjIXY?t=22)
 [Subway Surfers](https://poki.com/en/g/subway-surfers) is a game in the genre known as an "infinite runner".\
 The player runs continuously along a never-ending track and must dodge obstacles along the way.\
