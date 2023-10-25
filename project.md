@@ -10,7 +10,8 @@ Accept the [Assignment](https://classroom.github.com/a/uaFFapBo)
 # Project Design
 10% of the grade.\
 Due Nov 8th at 10am.\
-There is a template docx file in the starter repo.
+There is a template docx file in the starter repo.\
+Turn in your project design [Here](https://blackboard.usc.edu/webapps/assignment/uploadAssignment?content_id=_9985592_1&course_id=_324320_1&group_id=&mode=cpview)
 
 # Project Prototype
 20% of the grade.\
