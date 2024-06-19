@@ -18,15 +18,15 @@ Go to [https://github.com/](https://github.com/) and [Sign Up](https://github.co
 
 If you don't already have one, [https://desktop.github.com/](https://desktop.github.com/).
 
-You may use any git client you wish including terminal. 
+You may use any git client you wish including terminal, but if you have any doubt, please use github desktop.
 
 {: .note }
-I cannot guarantee I can help you with any git client other than Github Desktop or terminal.
+I cannot guarantee I can help you with any git client other than Github Desktop or terminal.\
 I personally use [TortoiseGit](https://tortoisegit.org/download/). I can also help you with that one.
 
 ## Accept the Assignment
 
-[Accept the Assignment](https://classroom.github.com/a/q8lAP7x3)
+[Accept the Assignment](https://classroom.github.com/a/KxvHnXPz)
 
 ## Clone the Repo
 
@@ -37,30 +37,30 @@ Choose a location on your hard drive. You'll need to know where this is.
 
 ## Edit Your ReadMe file
 
-At the root of the InClass01 project, you should find a README.md file.
-Open this in any text editor, and update your name and email address.
+At the root of the InClass01 (helloworld) project, you should find a README.md file.\
+Open this in any text editor, and update your name and email address.\
 Save the file.
 
 ## Commit and Push
 
-Use your chosen git client to commit your changes.
+Use your chosen git client (github desktop) to commit your changes.\
 Push your changes up to the server.
 
 {: .note }
-If you do not push your work, we cannot see it.
-If we cannot see it, we cannot grade it, and we will be limited in how much advice we can offer.
-Pushing your work saves everything as a backup.
+If you do not push your work, we cannot see it.\
+If we cannot see it, we cannot grade it, and we will be limited in how much advice we can offer.\
+Pushing your work saves everything as a backup.\
 Commit and Push Often.
 
 ## Check It
 
 {: .test}
-Using your web browser, go to your repo on github.
-Click on your README.txt file.
+Using your web browser, go to your repo on github.\
+Click on your README.txt file.\
 You should see your name and email address.
 
 {: .warn}
-This is how we'll be grading this assignment.
+This is how we'll be grading this assignment.\
 If your name does not appear, you will not get full credit.
 
 
