@@ -26,7 +26,7 @@ I personally use [TortoiseGit](https://tortoisegit.org/download/). I can also he
 
 ## Accept the Assignment
 
-[Accept the Assignment](https://classroom.github.com/a/KxvHnXPz)
+[Accept the Assignment](https://classroom.github.com/a/6XddjqmI)
 
 ## Clone the Repo
 
