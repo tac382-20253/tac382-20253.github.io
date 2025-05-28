@@ -15,9 +15,8 @@ Now that git is set up, let's get your Unity working.
 2. Choose Unity Hub
 ![Download Unity](images/unity/downloadunity.jpg)
 3. Run Unity Hub and install our version of Unity Editor
-* 2022.3.33f1
-    * The images show 2022.3.0f1, but please choose 2022.3.33f1 if that is available
-    * By the time class starts, 2022.3.33f1 may no longer be listed. In that case, choose the 2022.3 LTS option that IS available.
+* 6000.0.49f1
+    * By the time class starts, 6000.0.49f1 may no longer be listed. In that case, choose the 6000.0 LTS option that IS available.
 ![Install Editor](images/unity/installeditor.jpg)
 4. Make sure to select one or both of the mobile options
 ![Add Mobile Platform](images/unity/mobilesupport01.jpg)
