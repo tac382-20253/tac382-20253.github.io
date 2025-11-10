@@ -5,7 +5,7 @@ nav_order: 12
 ---
 
 # Individual Project
-Accept the [Assignment](https://classroom.github.com/a/suPdaO9E)
+Accept the [Assignment](https://classroom.github.com/a/MZEkFBwb)
 
 # Project Design
 10% of the grade.\
